@@ -21,8 +21,14 @@ i'm (not a computer science) student and i code stuff.
 - nvim
 - git because everyone says to use it
 
+## my setup
+- GPU: poor
+- CPU: poor
+- Linux Distro: PopOS, Arch
+- keyboard that does not react
+  
 ## my goals
-- make a career
+- make a career that would make me money
 - buy a farm
   
 ---
