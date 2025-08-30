@@ -1,13 +1,16 @@
 # SpekZone
 
 yo
-i'm (not computer science) student. i code stuff.
+i'm (not a computer science) student and i code stuff.
 
 ## what i "know"  
 - C
 - C++ (its just C)
-- cybersecurity (don't hack me pls)
 - game dev (Godot)
+  
+## what i would like to know
+- cybersecurity (don't hack me pls)
+- absolutely not JAVA or PHP
 
 ## what i do  
 - write C that segfaults  
