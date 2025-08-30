@@ -1,16 +1,27 @@
-## Hi there 👋
+# SpekZone
 
-<!--
-**Luksx/Luksx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+yo
+i'm (not computer science) student. i code stuff.
 
-Here are some ideas to get you started:
+## what i "know"  
+- C
+- C++ (its just C)
+- cybersecurity (don't hack me pls)
+- game dev (Godot)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## what i do  
+- write C that segfaults  
+- break my own things for "security research"  
+- make uncompleted games in Godot
+
+## tools i click  
+- nvim
+- git because everyone says to use it
+
+## my goals
+- make a career
+- buy a farm
+  
+---
+
+*work in progress, just like my code (there is none). if you read this, send snacks.*
